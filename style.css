@@ -1,0 +1,42 @@
+.content-wrapper
+  .user-page-section.theme-class-04-christmas-pro
+  .user-page-section-background {
+    background: url(img/1366x880.png) center center, #002429;
+    background-size: cover;
+}
+.content-wrapper
+  .user-page-section.theme-class-04-christmas-pro
+  .wrapper
+  .preview-links-list__component
+  .preview-link-item__component
+  .preview-link-wrapper,
+.content-wrapper
+  .user-page-section.theme-class-04-christmas-pro
+  .wrapper
+  .preview-anonymous-messages__component,
+.content-wrapper
+  .user-page-section.theme-class-04-christmas-pro
+  .wrapper
+  .preview-signup-generator-terms__component,
+.content-wrapper
+  .user-page-section.theme-class-04-christmas-pro
+  .wrapper
+  .preview-signup-generator__component,
+.content-wrapper
+  .user-page-section.theme-class-04-christmas-pro
+  .wrapper
+  .preview-location-item__component,
+.content-wrapper
+  .user-page-section.theme-class-04-christmas-pro
+  .wrapper
+  .preview-menu-item__component {
+  color: #e3bf68;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  border-radius: 10px;
+  background: #550048;
+  border: 2px solid #8e6911;
+  font-family: "Itim", cursive;
+  font-size: 16px;
+}
